@@ -864,10 +864,700 @@
   {
     "telugu": [
       {
-        "title": "Azagile ummai pola",
+        "title": "Chirakala snehituda",
         "videoid": "1",
-        "videoUrl":"https://raw.githubusercontent.com/tamilchriststatus/videos/master/tamil/1.mp4",
-        "thumbnailUrl":"https://raw.githubusercontent.com/tamilchriststatus/videos/master/tamil/webp/1.webp"
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/1.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/1.webp"
+      },
+      {
+        "title": "Very Emotional ",
+        "videoid": "2",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/2.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/2.webp"
+      },
+      {
+        "title": "Niluvellam kaayathe",
+        "videoid": "3",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/3.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/3.webp"
+      },
+      {
+        "title": "Nithya snega",
+        "videoid": "4",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/4.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/4.webp"
+      },
+      {
+        "title": "Prakash Paul songs",
+        "videoid": "5",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/5.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/5.webp"
+      },
+      {
+        "title": "Chirakala snehituda",
+        "videoid": "6",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/6.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/6.webp"
+      },
+      {
+        "title": "christhi thegam",
+        "videoid": "7",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/7.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/7.webp"
+      },
+      {
+        "title": "Telugu Christian status",
+        "videoid": "8",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/8.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/8.webp"
+      },
+      {
+        "title": "antharu mechino",
+        "videoid": "9",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/9.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/9.webp"
+      },
+      {
+        "title": "Nee Daylo Nenunna",
+        "videoid": "10",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/10.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/10.webp"
+      },
+      {
+        "title": "Thalli la lalu",
+        "videoid": "11",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/11.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/11.webp"
+      },
+      {
+        "title": "Nan thenguka prem",
+        "videoid": "12",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/12.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/12.webp"
+      },
+      {
+        "title": "Telugu Christian songs",
+        "videoid": "13",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/13.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/13.webp"
+      },
+      {
+        "title": "Matthew 5:7",
+        "videoid": "14",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/14.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/14.webp"
+      },
+      {
+        "title": "Antharu nannu vidachi",
+        "videoid": "15",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/15.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/15.webp"
+      },
+      {
+        "title": "Jeevitham Ante",
+        "videoid": "16",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/16.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/16.webp"
+      },
+      {
+        "title": "Appa aakini yessaiya",
+        "videoid": "17",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/17.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/17.webp"
+      },
+      {
+        "title": "Athningathu singasana",
+        "videoid": "18",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/18.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/18.webp"
+      },
+      {
+        "title": "Anthuku naa theva sthuthi",
+        "videoid": "19",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/19.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/19.webp"
+      },
+      {
+        "title": "sthuthium neege naa sharvam neege",
+        "videoid": "20",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/20.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/20.webp"
+      },
+      {
+        "title": "nithya sthuthi",
+        "videoid": "21",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/21.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/21.webp"
+      },
+      {
+        "title": "Aaradhana Aaradhana",
+        "videoid": "22",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/22.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/22.webp"
+      },
+      {
+        "title": "Telugu Christian songs psalm 18:49",
+        "videoid": "23",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/23.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/23.webp"
+      },
+      {
+        "title": "Sudhdha Hrudhayam",
+        "videoid": "24",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/24.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/24.webp"
+      },
+      {
+        "title": "maruvagalana Marala",
+        "videoid": "25",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/25.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/25.webp"
+      },
+      {
+        "title": "Awesome Telugu Christian WhatsApp status",
+        "videoid": "26",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/26.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/26.webp"
+      },
+      {
+        "title": "Latest New Telugu Christian WhatsApp status",
+        "videoid": "27",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/27.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/27.webp"
+      },
+      {
+        "title": "kadachina kaalamum",
+        "videoid": "28",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/28.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/28.webp"
+      },
+      {
+        "title": "Kanner thupagale",
+        "videoid": "29",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/29.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/29.webp"
+      },
+      {
+        "title": "Kallallo kanneerenduku",
+        "videoid": "30",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/30.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/30.webp"
+      },
+      {
+        "title": "Suryudu un anthakaar",
+        "videoid": "31",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/31.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/31.webp"
+      },
+      {
+        "title": "Priyamaina yesayya",
+        "videoid": "32",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/32.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/32.webp"
+      },
+      {
+        "title": "Bro Paul Chetti",
+        "videoid": "33",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/33.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/33.webp"
+      },
+      {
+        "title": "naa thandri nannu manninchu",
+        "videoid": "34",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/34.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/34.webp"
+      },
+      {
+        "title": "Thallila preminchinu",
+        "videoid": "35",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/35.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/35.webp"
+      },
+      {
+        "title": "Yesu namamu lone",
+        "videoid": "36",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/36.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/36.webp"
+      },
+      {
+        "title": "Telugu Bible Word",
+        "videoid": "37",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/37.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/37.webp"
+      },
+      {
+        "title": "Intha kaalam lokamlo brathikaa",
+        "videoid": "38",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/38.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/38.webp"
+      },
+      {
+        "title": "kannirelamma",
+        "videoid": "39",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/39.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/39.webp"
+      },
+      {
+        "title": "yuddhamu yehovadhe",
+        "videoid": "40",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/40.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/40.webp"
+      },
+      {
+        "title": "Mahonnatuda",
+        "videoid": "41",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/41.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/41.webp"
+      },
+      {
+        "title": "praneswari naa priyasaki",
+        "videoid": "42",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/42.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/42.webp"
+      },
+      {
+        "title": "jeevitham lo nerchukunnanu song",
+        "videoid": "43",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/43.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/43.webp"
+      },
+      {
+        "title": "Devudu Prematho",
+        "videoid": "44",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/44.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/44.webp"
+      },
+      {
+        "title": "Paralokanestham Paralokarajyam",
+        "videoid": "45",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/45.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/45.webp"
+      },
+      {
+        "title": "Nee Dhayalo nenunna inthakalam",
+        "videoid": "46",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/46.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/46.webp"
+      },
+      {
+        "title": "Gamiyam nee cherale",
+        "videoid": "47",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/47.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/47.webp"
+      },
+      {
+        "title": "bedham emi ledu",
+        "videoid": "48",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/48.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/48.webp"
+      },
+      {
+        "title": "emi unna lekunna",
+        "videoid": "49",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/49.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/49.webp"
+      },
+      {
+        "title": "Shodhanalennina",
+        "videoid": "50",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/50.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/50.webp"
+      },
+      {
+        "title": "Jeeva nathi nee",
+        "videoid": "51",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/51.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/51.webp"
+      },
+      {
+        "title": "Telugu Bible words",
+        "videoid": "52",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/52.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/52.webp"
+      },
+      {
+        "title": "Naa Munthara nadichivadu",
+        "videoid": "53",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/53.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/53.webp"
+      },
+      {
+        "title": "yantha prema yessaia",
+        "videoid": "54",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/54.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/54.webp"
+      },
+      {
+        "title": "Telugu christmas christian song",
+        "videoid": "55",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/55.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/55.webp"
+      },
+      {
+        "title": "Telugu christian whatsapp status grid status",
+        "videoid": "56",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/56.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/56.webp"
+      },
+      {
+        "title": "Ee bahsa kannane",
+        "videoid": "57",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/57.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/57.webp"
+      },
+      {
+        "title": "voice is God",
+        "videoid": "58",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/58.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/58.webp"
+      },
+      {
+        "title": "The vudu",
+        "videoid": "59",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/59.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/59.webp"
+      },
+      {
+        "title": "priyamaina yesayya",
+        "videoid": "60",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/60.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/60.webp"
+      },
+      {
+        "title": "sevakulaara suvarthikulaara Unnatha Pani ",
+        "videoid": "61",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/61.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/61.webp"
+      },
+      {
+        "title": "paapamnundi",
+        "videoid": "62",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/62.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/62.webp"
+      },
+      {
+        "title": "Srustikarthavaina",
+        "videoid": "63",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/63.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/63.webp"
+      },
+      {
+        "title": "Ghanudavu neevu",
+        "videoid": "64",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/64.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/64.webp"
+      },
+      {
+        "title": "Nadu raksha ni manase",
+        "videoid": "65",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/65.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/65.webp"
+      },
+      {
+        "title": "Yese naa jeevitam",
+        "videoid": "66",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/66.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/66.webp"
+      },
+      {
+        "title": "Jeevitham ante",
+        "videoid": "67",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/67.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/67.webp"
+      },
+      {
+        "title": "Udhaya",
+        "videoid": "68",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/68.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/68.webp"
+      },
+      {
+        "title": "oo manava",
+        "videoid": "69",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/69.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/69.webp"
+      },
+      {
+        "title": "sharon sisters prabhu sannidhilo",
+        "videoid": "70",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/70.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/70.webp"
+      },
+      {
+        "title": "Intha kaalam lokam",
+        "videoid": "71",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/71.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/71.webp"
+      },
+      {
+        "title": "Heart touching status",
+        "videoid": "72",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/72.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/72.webp"
+      },
+      {
+        "title": "Nuthana parachumu deva",
+        "videoid": "73",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/73.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/73.webp"
+      },
+      {
+        "title": "Joel kodali|",
+        "videoid": "74",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/74.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/74.webp"
+      },
+      {
+        "title": "Ni Siluva nundi",
+        "videoid": "75",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/75.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/75.webp"
+      },
+      {
+        "title": "andharu nanu vidachina",
+        "videoid": "76",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/76.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/76.webp"
+      },
+      {
+        "title": "Ethuro",
+        "videoid": "77",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/77.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/77.webp"
+      },
+      {
+        "title": "Ni Krupaye nannu kachenu",
+        "videoid": "78",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/78.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/78.webp"
+      },
+      {
+        "title": "Maate chalayya yesu naku",
+        "videoid": "79",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/79.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/79.webp"
+      },
+      {
+        "title": "ninnu kapadu vadu kunakadu",
+        "videoid": "80",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/80.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/80.webp"
+      },
+      {
+        "title": "Enathu kaina",
+        "videoid": "81",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/81.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/81.webp"
+      },
+      {
+        "title": "Yesu Dhevuni by Sharon sister",
+        "videoid": "82",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/82.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/82.webp"
+      },
+      {
+        "title": "naa pranama",
+        "videoid": "83",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/83.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/83.webp"
+      },
+      {
+        "title": "yavvanuda balavandhuda",
+        "videoid": "84",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/84.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/84.webp"
+      },
+      {
+        "title": "Na thodu",
+        "videoid": "85",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/85.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/85.webp"
+      },
+      {
+        "title": "Neetho Naa Jeevitham",
+        "videoid": "86",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/86.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/86.webp"
+      },
+      {
+        "title": "Antharu ninno",
+        "videoid": "87",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/87.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/87.webp"
+      },
+      {
+        "title": "Neevunte Naaku Chaalu Yesayyaa",
+        "videoid": "88",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/88.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/88.webp"
+      },
+      {
+        "title": "latest Telugu Christian WhatsApp status",
+        "videoid": "89",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/89.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/89.webp"
+      },
+      {
+        "title": "ghanudavu neevu",
+        "videoid": "90",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/90.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/90.webp"
+      },
+      {
+        "title": "Pallavi",
+        "videoid": "91",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/91.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/91.webp"
+      },
+      {
+        "title": "priyathama bandhama9",
+        "videoid": "92",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/92.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/92.webp"
+      },
+      {
+        "title": "naa roopame song",
+        "videoid": "93",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/93.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/93.webp"
+      },
+      {
+        "title": "Telugu Heart Touching WhatsApp Status",
+        "videoid": "94",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/94.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/94.webp"
+      },
+      {
+        "title": "Maruvagalana",
+        "videoid": "95",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/95.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/95.webp"
+      },
+      {
+        "title": "kummarincheda yesaiyya",
+        "videoid": "96",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/96.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/96.webp"
+      },
+      {
+        "title": "Prathi nota song by Jk Christopher Vincent Joel",
+        "videoid": "97",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/97.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/97.webp"
+      },
+      {
+        "title": "Mahima Suvartha",
+        "videoid": "98",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/98.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/98.webp"
+      },
+      {
+        "title": "Alayamlo pravesinchandi",
+        "videoid": "99",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/99.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/99.webp"
+      },
+      {
+        "title": "manche leni na pina",
+        "videoid": "100",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/100.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/100.webp"
+      },
+      {
+        "title": "Aaradinthunu",
+        "videoid": "101",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/101.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/101.webp"
+      },
+      {
+        "title": "Achrayamaina prema ",
+        "videoid": "102",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/102.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/102.webp"
+      },
+      {
+        "title": "Nammakamaina",
+        "videoid": "103",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/103.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/103.webp"
+      },
+      {
+        "title": "Kristavam idi vastavam",
+        "videoid": "104",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/104.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/104.webp"
+      },
+      {
+        "title": "Neevu kavali O madiri--talavanchaku nestama",
+        "videoid": "105",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/105.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/105.webp"
+      },
+      {
+        "title": "Talavanchaku nestama",
+        "videoid": "106",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/106.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/106.webp"
+      },
+      {
+        "title": "Nuthana parachumu devaa",
+        "videoid": "107",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/107.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/107.webp"
+      },
+      {
+        "title": "Dvimanaskulai",
+        "videoid": "108",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/108.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/108.webp"
+      },
+      {
+        "title": "Jesus speak to me",
+        "videoid": "109",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/109.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/109.webp"
+      },
+      {
+        "title": "Oohaku andani..02",
+        "videoid": "110",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/110.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/110.webp"
+      },
+      {
+        "title": "Oohaku andani",
+        "videoid": "111",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/111.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/111.webp"
+      },
+      {
+        "title": "Kalalonaina ne maruvagalana",
+        "videoid": "112",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/112.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/112.webp"
+      },
+      {
+        "title": "Kalalonaina ne maruvagalana 2",
+        "videoid": "113",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/113.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/113.webp"
+      },
+      {
+        "title": "Aaptulaina varey--Nammakamaina",
+        "videoid": "114",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/114.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/114.webp"
+      },
+      {
+        "title": "Enta premo enta prema ",
+        "videoid": "115",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/115.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/115.webp"
+      },
+      {
+        "title": "Mahonnatuda",
+        "videoid": "116",
+        "videoUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/116.mp4",
+        "thumbnailUrl":"https://raw.githubusercontent.com/telugustatus/videos/master/telugu/webp/116.webp"
       }
     ]
   }
