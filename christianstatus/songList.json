@@ -1,6 +1,6 @@
 [
   {
-    "english": [
+    "language": [
       {
         "title": "You are my god",
         "videoid": "1",
@@ -244,7 +244,7 @@
     ]
   },
   {
-    "tamil": [
+    "language": [
       {
         "title": "Azagile ummai pola",
         "videoid": "1",
@@ -842,7 +842,7 @@
     ]
   },
   {
-    "malayalam": [
+    "language": [
       {
         "title": "Uruki Uruki Theernidam",
         "videoid": "1",
@@ -1162,7 +1162,7 @@
     ]
   },
   {
-    "hindi": [
+    "language": [
       {
         "title": "Teri Aaradhana Karu",
         "videoid": "/1",
@@ -1472,7 +1472,7 @@
     ]
   },
   {
-    "telugu": [
+    "language": [
       {
         "title": "Chirakala snehituda",
         "videoid": "1",
