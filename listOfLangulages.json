@@ -3,36 +3,36 @@
       "language": "English",
       "languageShow": "English",
       "languageId": 1,
-      "songLength":60
+      "songLength":""
     },
     {
       "language": "Tamil",
       "languageShow": "தமிழ்",
       "languageId": 2,
-      "songLength":120
+      "songLength":""
     },
     {
       "language": "Malayalam",
       "languageShow": "മലയാളം",
       "languageId": 3,
-      "songLength":90
+      "songLength":""
     },
     {
       "language": "Hindi",
       "languageShow": "हिंदी",
       "languageId": 3,
-      "songLength":80
+      "songLength":""
     },
     {
       "language": "Telugu",
       "languageShow": "తెలుగు",
       "languageId": 4,
-      "songLength":140
+      "songLength":""
     },
     {
       "language": "Kannada",
       "languageShow": "ಕನ್ನಡಂ",
       "languageId": 5,
-      "songLength":50
+      "songLength":""
     }
   ]
